@@ -1,4 +1,4 @@
-<img src="SecreenShoot/irahman_screenchoot1.png" alt="rahman_gambar1" width="800"  height="350">
+<img src="SecreenShoot/rahman_screenchoot1.png" alt="rahman_gambar1" width="800"  height="350">
 # RAHMAN-FOODPEDIA-RESTAURANT
 <p>Website fontend yang memperkenal kan tentang restoran silahkan di ambil utuk referensi belajar.</p>
 
