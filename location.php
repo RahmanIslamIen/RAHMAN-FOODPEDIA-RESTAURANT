@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>foodpedia</title>
+    <link rel="shortcut icon" href="assets/images/dish.png" type="image/x-icon">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <!-- css yang kubuat sendiri -->
+    <link rel="stylesheet" href="websiteStyle.css">
+  </head>
+
+  <body>
+    <div id="app">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand tulisanLogo" href="#">FOODPEDIA</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                    <a class="nav-link" href="index.php">all menus</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="location.php">location</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="reviews.php">reviews</a>
+                    </li>
+                </ul>
+                </div>
+            </div>
+        </nav>
+
+        <center>
+            <img src="https://jakartaloe.files.wordpress.com/2013/12/fireshot-screen-capture-005-google-maps-maps_google_com.png" style="margin-bottom: 16px; margin-top: 12px;" alt="alternatetext" width="500" height="250">
+            <p>hubungi kami whatsapp: +62 xxx-xxx-xxx</br>
+                alamat lengkap: Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+        
+
+        <table width="75%" style="margin-bottom: 25px;">
+            <tr>
+                <td>
+                    <img src="https://images.homify.com/c_fill,f_auto,q_0,w_740/v1507861358/p/photo/image/2270627/P1012127.jpg" style="border-radius: 25px" alt="alternatetext" width="300" height="140">
+                </td>
+                <td rowspan="2">
+                    <p style="margin-left: 5px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit doloremque obcaecati, 
+                        assumenda nostrum rerum similique vel ipsa modi hic sequi aliquid iusto culpa molestias amet, 
+                        eligendi minima dicta accusamus. Veritatis!</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="https://i1.wp.com/rumahmebel.id/wp-content/uploads/2021/03/Desain-Cafe-Ruko-Minimalis-Modern-Klasik.jpg?fit=600%2C516&ssl=1" style="margin-top: -30px; margin-left: 30px; border-radius: 25px" alt="alternatetext" width="300" height="140">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <img src="https://4.bp.blogspot.com/-Ooy5rMMFo5w/V4E2E4v_GiI/AAAAAAAABUg/ASjaIJhG-JEjHcfNJm9NEw248M_3FvjOACLcB/s1600/Pentingnya+anggaran+untuk+proses+desain.jpg" style="margin-top: 25px; border-radius: 25px" alt="alternatetext" width="300" height="140">
+                </td>
+                <td>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam a molestiae quam perferendis, 
+                        ipsa cupiditate? Distinctio veritatis quam nemo, culpa, voluptate facilis nihil est perferendis 
+                        atque corporis hic molestiae commodi!</p>
+                </td>
+            </tr>
+        </table>
+
+        </center>
+
+        <div class="footer">
+            <p>copyright &copy; rahman islam 2021</p>
+        </div>
+    </div>
+    
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+    -->
+
+  </body>
+</html>
